@@ -1,0 +1,15 @@
+header {
+  padding:20px;
+  background-color: white;
+  -webkit-box-shadow: -2px 26px 24px -20px rgba(173,171,173,0.86);
+  -moz-box-shadow: -2px 26px 24px -20px rgba(173,171,173,0.86);
+  box-shadow: -2px 26px 24px -20px rgba(173,171,173,0.86);
+}
+
+img {
+  width: 30%;
+  max-width: 250px;
+  min-width: 150px;
+}
+
+/* TODO: Add media query for large screen */

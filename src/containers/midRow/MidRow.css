@@ -1,0 +1,12 @@
+.mainMidDiv {
+  display:grid;
+  grid-template-columns: minmax(200px, 2.03fr) minmax(200px, 2.03fr) minmax(200px, 1fr);
+  grid-column-gap: 10px;
+  margin: 20px 0;
+}
+
+.midRowBox {
+  padding: 20px;
+  /* margin:10px 5px; */
+  background-color: white;
+}

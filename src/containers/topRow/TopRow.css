@@ -1,0 +1,12 @@
+.mainDiv {
+  display:grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-column-gap: 10px;
+  margin: 20px 0;
+}
+
+.topRowBox {
+  padding: 20px;
+  /* margin:10px 5px; */
+  background-color: white;
+}
