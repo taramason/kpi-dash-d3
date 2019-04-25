@@ -5,13 +5,13 @@ import './Header.css'
 class Header extends Component {
   render () {
     return (
-      <div className="App">
+      <React.Fragment>
         <header className="App-header">
           <div>
             <img src={logo} alt=""/>
           </div>
         </header>
-      </div>
+      </React.Fragment>
     );
   }
 }
